@@ -62,12 +62,12 @@ for index, (platform, link) in enumerate(SOCIAL_MEDIA.items()):
         
 # ---EXPERIENCE & QUALIFICATIONS ---
 st.write("#")
-st.subheader("Experrience & Qualifications")
+st.subheader("Experience & Qualifications")
 st.write("""
-- ✔️ Strong hands on experience and knowledge in Python and Java
+- ✔️ Strong hands-on experience and knowledge in Python and Java
 - ✅ Good understanding of statistical principles and their respective applications
-- ✔️ Excellent team-player and displaying strong sense of initiative on tasks
-- ✅ Intuitive understanding of linear algebra based applications
+- ✔️ Excellent team player and displaying a strong sense of initiative on tasks
+- ✅ Intuitive understanding of linear algebra-based applications
 """
 )
 
@@ -75,7 +75,7 @@ st.write("""
 st.write('\n')
 st.subheader("Hard Skills")
 st.write("""
-- 👩‍💻 Programming: Python, Java , C++, C
+- 👩‍💻 Programming: Python, Java, C++, C
          """)
 
 # --- WORK HISTORY ---
@@ -88,7 +88,7 @@ st.write("🚧", "**Teacher's Assistant | University of Windsor**")
 st.write("09/2023 - Present")
 st.write(
     """
-- ► Mentored more than 100+ students single-handedly in absence of TAs during labs 
+- ► Mentored more than 100+ students single-handedly in the absence of TAs during labs 
 
 """
 )
