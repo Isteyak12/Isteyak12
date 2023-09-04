@@ -111,4 +111,4 @@ col5, col6 = st.columns(2, gap="small")
 with col5:
     st.image(profile_pic2, width=240)
 with col6:
-    st.image(profile_pic3, width=230)
+    st.image(profile_pic3, width=240)
