@@ -103,7 +103,7 @@ st.write("""
 
 # --- WORK HISTORY ---
 st.write("---")
-st.subheader(" Increased students' grades by up to 20%.")
+st.subheader(" Increased students' grades by up to 20%")
 
 # Images
 st.write("#")
