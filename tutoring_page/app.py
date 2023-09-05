@@ -81,7 +81,7 @@ st.subheader("Do you need help with...")
 col5, col6 = st.columns(2, gap="small")
 with col5:
     st.write("✅ COMP 1000")
-    st.write("✔️ COMP 1067")
+    st.write("✔️ COMP 1047")
     st.write("✅ COMP 1400")
     st.write("✔️ COMP 1410")
 
