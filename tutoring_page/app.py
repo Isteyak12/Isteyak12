@@ -10,7 +10,7 @@ profile_pic = Image.open(current_dir / "assets" / "emma_coding.jpg")
 profile_pic2 = Image.open(current_dir / "assets" / "batman_coding.jpg")
 profile_pic3 = Image.open(current_dir / "assets" / "batman_coding2.jpg")
 profile_pic4 = Image.open(current_dir / "assets" / "cat_coding.jpg")
-
+profile_pic5 = Image.open(current_dir / "assets" / "qr.jpg")
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "Windsor's CS"
 PAGE_ICON = ":computer:"
@@ -109,6 +109,6 @@ st.subheader(" Increased students' grades by up to 20%")
 st.write("#")
 col5, col6 = st.columns(2, gap="small")
 with col5:
-    st.image(profile_pic2, width=240)
+    st.image(profile_pic5, width=240)
 with col6:
     st.image(profile_pic3, width=240)
