@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]*.mp4
+.idea/
+desktop.ini
+Icon\r
+
+Course_Outline/
+Learning_Outcome/
+*.mp4
+
+Analysis/Assignments_Stats.xlsx
