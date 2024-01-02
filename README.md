@@ -12,3 +12,17 @@
 - 📫 How to reach me: isteyakislam12@gmail.com
 - ⚡ Fun fact: I know C++ and Python data structure.
 -->
+💻 Tech Stack:
+
+- C++
+- Python
+- JavaScript
+- HTML5
+- CSS3
+- Node.js
+- Flask
+- Git
+- Linux
+- Docker
+
+
