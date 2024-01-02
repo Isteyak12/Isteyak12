@@ -22,4 +22,5 @@
 - Linux
 - Docker
 
+![Tech Stack](https://img.shields.io/badge/Tech%20Stack-C++%20%7C%20Python%20%7C%20Dockerfile-blue)
 
