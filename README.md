@@ -14,13 +14,14 @@
 -->
 💻 ![Tech Stack](https://img.shields.io/badge/Tech%20Stack-C++%20%7C%20)
 
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-yellow?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-purple?style=for-the-badge)
-![Dockerfile](https://img.shields.io/badge/Dockerfile-blueviolet?style=for-the-badge)
+[![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&style=for-the-badge)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Python](https://img.shields.io/badge/Python-blue?logo=python&style=for-the-badge)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-orange?logo=java&style=for-the-badge)](https://www.java.com/)
+[![HTML](https://img.shields.io/badge/HTML-red?logo=html5&style=for-the-badge)](https://en.wikipedia.org/wiki/HTML)
+[![Flask](https://img.shields.io/badge/Flask-yellow?logo=flask&style=for-the-badge)](https://flask.palletsprojects.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-purple?logo=streamlit&style=for-the-badge)](https://streamlit.io/)
+[![Dockerfile](https://img.shields.io/badge/Dockerfile-blueviolet?logo=docker&style=for-the-badge)](https://www.docker.com/)
+
 
 
 
