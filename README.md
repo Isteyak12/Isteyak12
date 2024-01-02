@@ -16,10 +16,7 @@
 
 - C++
 - Python
-- JavaScript
-- HTML5
-- CSS3
-- Node.js
+- Java
 - Flask
 - Git
 - Linux
