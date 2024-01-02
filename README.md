@@ -14,8 +14,8 @@
 -->
 💻 Tech Stack:
 
-- C++
-- Python
+ C++
+ Python
 - JavaScript
 - HTML5
 - CSS3
