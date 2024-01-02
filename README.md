@@ -14,13 +14,14 @@
 -->
 💻 ![Tech Stack](https://img.shields.io/badge/Tech%20Stack-C++%20%7C%20)
 
-![C++](https://img.shields.io/badge/C++-blue)
-![Python](https://img.shields.io/badge/Python-blue)
-![Java](https://img.shields.io/badge/Java-orange)
-![HTML](https://img.shields.io/badge/HTML-red)
-![Flask](https://img.shields.io/badge/Flask-yellow)
-![Streamlit](https://img.shields.io/badge/Streamlit-purple)
-![Dockerfile](https://img.shields.io/badge/Dockerfile-blueviolet)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-yellow?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-purple?style=for-the-badge)
+![Dockerfile](https://img.shields.io/badge/Dockerfile-blueviolet?style=for-the-badge)
+
 
 
 
