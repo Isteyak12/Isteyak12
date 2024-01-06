@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Isteyak12/Isteyak12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,7 +10,7 @@
 - 📫 How to reach me: isteyakislam12@gmail.com
 - ⚡ Fun fact: I know C++ and Python data structure.
 -->
-💻 ![Tech Stack](https://img.shields.io/badge/Tech%20Stack-C++%20%7C%20)
+![Tech Stack](https://img.shields.io/badge/Tech%20Stack-C++%20%7C%20)
 
 [![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&style=for-the-badge)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Python](https://img.shields.io/badge/Python-blue?logo=python&style=for-the-badge)](https://www.python.org/)
