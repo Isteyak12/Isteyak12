@@ -10,7 +10,8 @@
 - 📫 How to reach me: isteyakislam12@gmail.com
 - ⚡ Fun fact: I know C++ and Python data structure.
 -->
-![Tech Stack](https://img.shields.io/badge/Tech%20Stack-Your%20Tech%20Stack-<LEFT_COLOR>)
+![Tech Stack](https://img.shields.io/badge/Tech%20Stack-HTML%20%7C%20CSS%20%7C%20JavaScript-#4E74FF%20to%20#9561D8?style=for-the-badge)
+
 
 
 
