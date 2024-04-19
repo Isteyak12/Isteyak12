@@ -21,6 +21,8 @@
 [![Flask](https://img.shields.io/badge/Flask-yellow?logo=flask&style=for-the-badge)](https://flask.palletsprojects.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-purple?logo=streamlit&style=for-the-badge)](https://streamlit.io/)
 [![Dockerfile](https://img.shields.io/badge/Dockerfile-blueviolet?logo=docker&style=for-the-badge)](https://www.docker.com/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&style=for-the-badge)](https://www.php.net)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge)](https://www.mysql.com)
 
 
 
