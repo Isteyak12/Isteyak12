@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I know C++ and Python data structure.
 -->
 <!--[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-gray?logo=laptop&style=for-the-badge)](https://your-link-here)-->
-![](https://allhacked.com/up/2019/03/hello-world.gif)
+<img src="https://allhacked.com/up/2019/03/hello-world.gif" width="150" height="100" alt="Hello World GIF">
 # 💻 Tech Stack:
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&style=for-the-badge)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&style=for-the-badge)](https://expressjs.com/)
