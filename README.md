@@ -34,7 +34,7 @@
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Isteyak12&theme=gotham&hide_border=false&cache_seconds=1800)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Isteyak12&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
 ---
-![Animated Character](https://i.redd.it/n8agw6z2smyb1.gif)
+![Animated Character](https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
