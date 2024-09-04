@@ -11,6 +11,7 @@
 - ⚡ Fun fact: I know C++ and Python data structure.
 -->
 <!--[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-gray?logo=laptop&style=for-the-badge)](https://your-link-here)-->
+![Animated Character](https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952hk36t76podqoceh464ouz1vbptyqlgu814ayfn7t&ep=v1_gifs_search&rid=200w.gif&ct=g)
 
 
 # 💻 Tech Stack:
@@ -25,7 +26,7 @@
 [![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&style=for-the-badge)](https://www.php.net)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge)](https://www.mysql.com)
 
-
+![Animated Character](https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952hk36t76podqoceh464ouz1vbptyqlgu814ayfn7t&ep=v1_gifs_search&rid=200w.gif&ct=g)
 # 💫 About Me:
 🔭 I’m currently working on database tech<br>🌱 And I’m currently learning network systems<br>
 
