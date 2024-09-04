@@ -1,7 +1,5 @@
 <!--
 **Isteyak12/Isteyak12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 I’m currently working on Java
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on Java projects
@@ -11,8 +9,6 @@
 - ⚡ Fun fact: I know C++ and Python data structure.
 -->
 <!--[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-gray?logo=laptop&style=for-the-badge)](https://your-link-here)-->
-
-
 # 💻 Tech Stack:
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&style=for-the-badge)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&style=for-the-badge)](https://expressjs.com/)
@@ -27,9 +23,10 @@
 [![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&style=for-the-badge)](https://www.php.net)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge)](https://www.mysql.com)
 
-# 💫 About Me:
-👋 Hello! I'm Isteyak, a third-year Bachelor of Computer Science student at the University of Windsor with a passion for technology and problem-solving.<br>
-🔭 I’m currently working on database tech<br>🌱 And I’m currently learning network systems<br>
+## 💫 About Me:
+👋 Hi there! I'm **Isteyak**, a third-year **Computer Science** student at the University of Windsor, with a strong passion for technology and creative problem-solving.
+🔭 Currently, I'm diving deep into **database technologies**, exploring new ways to optimize and manage data effectively.
+🌱 I'm also expanding my knowledge in **network systems**.
 ![Animated Character](https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952hk36t76podqoceh464ouz1vbptyqlgu814ayfn7t&ep=v1_gifs_search&rid=200w.gif&ct=g)
 
 
@@ -39,7 +36,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Isteyak12&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
 
 ---
-![Visitor Count](https://visitcount.itsvg.in/api?id=Isteyak12&icon=0&color=0)
+![Animated Character](https://i.redd.it/n8agw6z2smyb1.gif)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
