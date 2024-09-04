@@ -25,9 +25,11 @@
 
 ## 💫 About Me:
 
-- 👋 Hi there! I'm **Isteyak**, a third-year **Computer Science** student at the University of Windsor, with a strong passion for technology and creative problem-solving.
-- 🔭 Currently, I'm diving deep into **database technologies**, exploring new ways to optimize and manage data effectively.
-- 🌱 I'm also expanding my knowledge in **network systems**.
+👋 **Hi there!** I'm **Isteyak**, a third-year **Computer Science** student at the University of Windsor, with a strong passion for technology and creative problem-solving.<br>
+
+🔭 **Currently**, I'm diving deep into **database technologies**, exploring new ways to optimize and manage data effectively.<br>
+
+🌱 I'm also expanding my knowledge in **network systems**.<br>
 
 ![Animated Character](https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952hk36t76podqoceh464ouz1vbptyqlgu814ayfn7t&ep=v1_gifs_search&rid=200w.gif&ct=g)
 
