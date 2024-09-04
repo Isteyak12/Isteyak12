@@ -9,6 +9,7 @@
 - ⚡ Fun fact: I know C++ and Python data structure.
 -->
 <!--[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-gray?logo=laptop&style=for-the-badge)](https://your-link-here)-->
+![Animated Character](https://media.tenor.com/VjjwSvR2wKAAAAAM/helloworld-helloworld-print.gif)
 # 💻 Tech Stack:
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&style=for-the-badge)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&style=for-the-badge)](https://expressjs.com/)
@@ -24,7 +25,6 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge)](https://www.mysql.com)
 
 ## 💫 About Me:
-
 👋 **Hi there!** I'm **Isteyak**, a third-year **Computer Science** student at the University of Windsor, with a strong passion for technology and creative problem-solving.<br>
 
 🔭 **Currently**, I'm diving deep into **database technologies**, exploring new ways to optimize and manage data effectively.<br>
@@ -33,15 +33,12 @@
 
 ![Animated Character](https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952hk36t76podqoceh464ouz1vbptyqlgu814ayfn7t&ep=v1_gifs_search&rid=200w.gif&ct=g)
 
-
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isteyak12&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)<br/>
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Isteyak12&theme=gotham&hide_border=false&cache_seconds=1800)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Isteyak12&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
-
 ---
 ![Animated Character](https://i.redd.it/n8agw6z2smyb1.gif)
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
