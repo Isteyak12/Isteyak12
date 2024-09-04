@@ -25,10 +25,9 @@
 [![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&style=for-the-badge)](https://www.php.net)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge)](https://www.mysql.com)
 
-
 # 💫 About Me:
+👋 Hello! I'm Isteyak, a third-year Bachelor of Computer Science student at the University of Windsor with a passion for technology and problem-solving.
 🔭 I’m currently working on database tech<br>🌱 And I’m currently learning network systems<br>
-
 ![Animated Character](https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952hk36t76podqoceh464ouz1vbptyqlgu814ayfn7t&ep=v1_gifs_search&rid=200w.gif&ct=g)
 
 
