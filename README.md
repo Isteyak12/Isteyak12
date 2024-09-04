@@ -14,6 +14,8 @@
 
 
 # 💻 Tech Stack:
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&style=for-the-badge)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&style=for-the-badge)](https://expressjs.com/)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <!--[![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&style=for-the-badge)](https://en.wikipedia.org/wiki/C%2B%2B)-->
 [![Python](https://img.shields.io/badge/Python-blue?logo=python&style=for-the-badge)](https://www.python.org/)
@@ -26,7 +28,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge)](https://www.mysql.com)
 
 # 💫 About Me:
-👋 Hello! I'm Isteyak, a third-year Bachelor of Computer Science student at the University of Windsor with a passion for technology and problem-solving.
+👋 Hello! I'm Isteyak, a third-year Bachelor of Computer Science student at the University of Windsor with a passion for technology and problem-solving.<br>
 🔭 I’m currently working on database tech<br>🌱 And I’m currently learning network systems<br>
 ![Animated Character](https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952hk36t76podqoceh464ouz1vbptyqlgu814ayfn7t&ep=v1_gifs_search&rid=200w.gif&ct=g)
 
