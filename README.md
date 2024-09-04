@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I know C++ and Python data structure.
 -->
 <!--[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-gray?logo=laptop&style=for-the-badge)](https://your-link-here)-->
-![Animated Character](https://allhacked.com/up/2019/03/hello-world.gif)
+![](https://allhacked.com/up/2019/03/hello-world.gif)
 # 💻 Tech Stack:
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&style=for-the-badge)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&style=for-the-badge)](https://expressjs.com/)
@@ -23,7 +23,7 @@
 [![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&style=for-the-badge)](https://www.php.net)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge)](https://www.mysql.com)
 
-## 💫 About Me:
+# 💫 About Me:
 👋 **Hi there!** I'm **Isteyak**, a third-year **Computer Science** student at the University of Windsor, with a strong passion for technology and creative problem-solving.<br>
 🔭 **Currently**, I'm diving deep into **database technologies**, exploring new ways to optimize and manage data effectively.<br>
 🌱 I'm also expanding my knowledge in **network systems**.<br>
