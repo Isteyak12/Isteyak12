@@ -38,5 +38,5 @@
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-
+# 👋 SOCIALS:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/isteyakislam12)
