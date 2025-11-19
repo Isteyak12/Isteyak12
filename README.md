@@ -22,6 +22,14 @@
 [![Dockerfile](https://img.shields.io/badge/Dockerfile-blueviolet?logo=docker&style=for-the-badge)](https://www.docker.com/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&style=for-the-badge)](https://www.php.net)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge)](https://www.mysql.com)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&style=for-the-badge)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&style=for-the-badge)](https://keras.io/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&style=for-the-badge)](https://opencv.org/)
+[![YOLO](https://img.shields.io/badge/YOLO-%23FBCB0A?style=for-the-badge)](https://pjreddie.com/darknet/yolo/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&style=for-the-badge)](https://numpy.org/)
+[![HDF5](https://img.shields.io/badge/HDF5-%23008080?style=for-the-badge)](https://www.hdfgroup.org/solutions/hdf5/)
+[![QGIS](https://img.shields.io/badge/QGIS-%233333FF?logo=qgis&style=for-the-badge)](https://qgis.org/)
+[![ArcGIS](https://img.shields.io/badge/ArcGIS-%23007AC2?style=for-the-badge)](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
 
 # 💫 About Me:
 👋 **Hi there!** I'm **Isteyak**, a computer vision researcher at the University of Windsor, with a strong passion for technology and creative problem-solving.<br>
