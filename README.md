@@ -13,6 +13,7 @@
 # 💻 Tech Stack:
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&style=for-the-badge)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&style=for-the-badge)](https://expressjs.com/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&style=for-the-badge)](https://nextjs.org/)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 [![Python](https://img.shields.io/badge/Python-blue?logo=python&style=for-the-badge)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-orange?logo=java&style=for-the-badge)](https://www.java.com/)
