@@ -32,11 +32,11 @@
 [![QGIS](https://img.shields.io/badge/QGIS-%233333FF?logo=qgis&style=for-the-badge)](https://qgis.org/)
 [![ArcGIS](https://img.shields.io/badge/ArcGIS-%23007AC2?style=for-the-badge)](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
 
-# 💫 About Me:
+# 💫 ABOUT ME:
 👋 **Hi there!** I'm **Isteyak**, a computer vision researcher at the University of Windsor, with a strong passion for technology and creative problem-solving.<br>
 ![Animated Character](https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952hk36t76podqoceh464ouz1vbptyqlgu814ayfn7t&ep=v1_gifs_search&rid=200w.gif&ct=g)
 
-# 📊 GitHub Stats:
+# 📊 GitHub stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isteyak12&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)<br/>
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Isteyak12&theme=gotham&hide_border=false&cache_seconds=1800)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Isteyak12&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
@@ -45,5 +45,5 @@
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-# 👋 SOCIALS:
+# 👋 socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/isteyak/)
