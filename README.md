@@ -10,7 +10,7 @@
 -->
 <!--[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-gray?logo=laptop&style=for-the-badge)](https://your-link-here)-->
 <img src="https://allhacked.com/up/2019/03/hello-world.gif" width="250" height="60" alt="Hello World GIF"><br>
-# 💻 Tech Stack:
+# 💻 tech stack:
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&style=for-the-badge)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&style=for-the-badge)](https://expressjs.com/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&style=for-the-badge)](https://nextjs.org/)
@@ -36,10 +36,9 @@
 👋 **Hi there!** I'm **Isteyak**, a computer vision researcher at the University of Windsor, with a strong passion for technology and creative problem-solving.<br>
 ![Animated Character](https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952hk36t76podqoceh464ouz1vbptyqlgu814ayfn7t&ep=v1_gifs_search&rid=200w.gif&ct=g)
 
-# 📊 GitHub stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isteyak12&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)<br/>
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Isteyak12&theme=gotham&hide_border=false&cache_seconds=1800)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Isteyak12&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
+# 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isteyak12&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
+
 ---
 ![Animated Character](https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif)
   
