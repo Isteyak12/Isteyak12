@@ -10,7 +10,7 @@
 -->
 <!--[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-gray?logo=laptop&style=for-the-badge)](https://your-link-here)-->
 <img src="https://allhacked.com/up/2019/03/hello-world.gif" width="250" height="60" alt="Hello World GIF"><br>
-# 💻 tech stack:
+# tech stack:
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&style=for-the-badge)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&style=for-the-badge)](https://expressjs.com/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&style=for-the-badge)](https://nextjs.org/)
@@ -32,7 +32,7 @@
 [![QGIS](https://img.shields.io/badge/QGIS-%233333FF?logo=qgis&style=for-the-badge)](https://qgis.org/)
 [![ArcGIS](https://img.shields.io/badge/ArcGIS-%23007AC2?style=for-the-badge)](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
 
-# 💫 about me:
+# about me:
 👋 **Hi there!** I'm **Isteyak**, a computer vision researcher at the University of Windsor, with a strong passion for technology and creative problem-solving.<br>
 ![Animated Character](https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952hk36t76podqoceh464ouz1vbptyqlgu814ayfn7t&ep=v1_gifs_search&rid=200w.gif&ct=g)
 
@@ -41,5 +41,5 @@
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-# 👋 socials:
+# socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/isteyak/)
