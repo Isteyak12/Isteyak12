@@ -47,10 +47,10 @@
 [![uOttahacks 2026 – Ultimate Posture Watcher](https://img.shields.io/badge/uOttahacks_2026-Posture_Watcher-000000?logo=github&style=for-the-badge)](https://github.com/Isteyak12/theuott26)
 > Real-time webcam posture coach with MediaPipe, ergonomic angle math, and optional Gemini coaching.
 
-[![WinHacks 2024 - CheckYourSource](https://img.shields.io/badge/CheckYourSource-Misinfo_Detector-000000?logo=github&style=for-the-badge)](https://github.com/SyndicateGit/CheckYourSource)
+[![WinHacks 2024 - CheckYourSource](https://img.shields.io/badge/WinHacks_2024-Electrity_Resource_Finder-000000?logo=github&style=for-the-badge)](https://github.com/SyndicateGit/CheckYourSource)
 > Check electricity resource usage on any part of the planet.
 
-[![AirBridge – Embedding-Based Similarity Search](https://img.shields.io/badge/AirBridge-Embedding_Net-000000?logo=github&style=for-the-badge)](https://github.com/Isteyak12/AirBridge)
+[![AirBridge – Embedding-Based Relay](https://img.shields.io/badge/AirBridge-Embedded_Relay_System-000000?logo=github&style=for-the-badge)](https://github.com/Isteyak12/AirBridge)
 > Wirelessly relay files from your phone to your laptop — no internet required.
 
 #
