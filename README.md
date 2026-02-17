@@ -8,18 +8,14 @@
 - 📫 How to reach me: isteyakislam12@gmail.com
 - ⚡ Fun fact: I know C++ and Python data structure.
 -->
-
+<img src="https://allhacked.com/up/2019/03/hello-world.gif" width="250" height="60" alt="Hello World GIF"><br>
 # about me:
 👋 **Hi there!** I'm **Isteyak**, a computer vision researcher at the University of Windsor, with a strong passion for technology and creative problem-solving.<br>
 ![Animated Character](https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952hk36t76podqoceh464ouz1vbptyqlgu814ayfn7t&ep=v1_gifs_search&rid=200w.gif&ct=g)
-
 ---
-![Animated Character](https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif)
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <!--[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-gray?logo=laptop&style=for-the-badge)](https://your-link-here)-->
-<img src="https://allhacked.com/up/2019/03/hello-world.gif" width="250" height="60" alt="Hello World GIF"><br>
+
 # tech stack:
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&style=for-the-badge)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&style=for-the-badge)](https://expressjs.com/)
@@ -43,6 +39,7 @@
 [![ArcGIS](https://img.shields.io/badge/ArcGIS-%23007AC2?style=for-the-badge)](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
 
 
+![Animated Character](https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif)
 
 # socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/isteyak/)
