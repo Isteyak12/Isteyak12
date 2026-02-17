@@ -12,7 +12,7 @@
 # about me:
 👋 **Hi there!** I'm **Isteyak**, a computer vision researcher at the University of Windsor, with a strong passion for technology and creative problem-solving.<br>
 ![Animated Character](https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952hk36t76podqoceh464ouz1vbptyqlgu814ayfn7t&ep=v1_gifs_search&rid=200w.gif&ct=g)
----
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-gray?logo=laptop&style=for-the-badge)](https://your-link-here)-->
 
@@ -38,8 +38,22 @@
 [![QGIS](https://img.shields.io/badge/QGIS-%233333FF?logo=qgis&style=for-the-badge)](https://qgis.org/)
 [![ArcGIS](https://img.shields.io/badge/ArcGIS-%23007AC2?style=for-the-badge)](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
 
+---
+# 🌟 Featured Projects
 
+[![HackTheNorth 2025 – AI-Powered 3D Virtual Classroom](https://img.shields.io/badge/HackTheNorth_2025-3D_Classroom-000000?logo=github&style=for-the-badge)](https://github.com/Isteyak12/HTN)
+> A Three.js-based immersive classroom with AI-powered LaTeX conversion from handwritten notes using Cohere Vision.
+
+[![uOttahacks 2026 – Ultimate Posture Watcher](https://img.shields.io/badge/uOttahacks_2026-Posture_Watcher-000000?logo=github&style=for-the-badge)](https://github.com/Isteyak12/theuott26)
+> Real-time webcam posture coach with MediaPipe, ergonomic angle math, and optional Gemini coaching.
+
+[![CheckYourSource – Misinformation Detector](https://img.shields.io/badge/CheckYourSource-Misinfo_Detector-000000?logo=github&style=for-the-badge)](https://github.com/SyndicateGit/CheckYourSource)
+> Browser extension that flags unreliable news sources using credibility scoring and source tracing.
+
+[![AirBridge – Embedding-Based Similarity Search](https://img.shields.io/badge/AirBridge-Embedding_Net-000000?logo=github&style=for-the-badge)](https://github.com/Isteyak12/AirBridge)
+> Semantic similarity engine using Siamese networks and vector embeddings for cross-modal retrieval.
 ![Animated Character](https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif)
 
+---
 # socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/isteyak/)
