@@ -39,7 +39,7 @@
 [![ArcGIS](https://img.shields.io/badge/ArcGIS-%23007AC2?style=for-the-badge)](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
 
 
-# 🌟 featured projects
+# featured projects
 
 [![HackTheNorth 2025 – AI-Powered 3D Virtual Classroom](https://img.shields.io/badge/HackTheNorth_2025-3D_Classroom-000000?logo=github&style=for-the-badge)](https://github.com/Isteyak12/HTN)
 > A Three.js-based immersive classroom with AI-powered LaTeX conversion from handwritten notes using Cohere Vision.
