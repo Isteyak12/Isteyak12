@@ -38,8 +38,8 @@
 [![QGIS](https://img.shields.io/badge/QGIS-%233333FF?logo=qgis&style=for-the-badge)](https://qgis.org/)
 [![ArcGIS](https://img.shields.io/badge/ArcGIS-%23007AC2?style=for-the-badge)](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
 
----
-# 🌟 Featured Projects
+
+# 🌟 featured projects
 
 [![HackTheNorth 2025 – AI-Powered 3D Virtual Classroom](https://img.shields.io/badge/HackTheNorth_2025-3D_Classroom-000000?logo=github&style=for-the-badge)](https://github.com/Isteyak12/HTN)
 > A Three.js-based immersive classroom with AI-powered LaTeX conversion from handwritten notes using Cohere Vision.
@@ -47,13 +47,12 @@
 [![uOttahacks 2026 – Ultimate Posture Watcher](https://img.shields.io/badge/uOttahacks_2026-Posture_Watcher-000000?logo=github&style=for-the-badge)](https://github.com/Isteyak12/theuott26)
 > Real-time webcam posture coach with MediaPipe, ergonomic angle math, and optional Gemini coaching.
 
-[![CheckYourSource – Misinformation Detector](https://img.shields.io/badge/CheckYourSource-Misinfo_Detector-000000?logo=github&style=for-the-badge)](https://github.com/SyndicateGit/CheckYourSource)
-> Browser extension that flags unreliable news sources using credibility scoring and source tracing.
+[![WinHacks 2024 - CheckYourSource](https://img.shields.io/badge/CheckYourSource-Misinfo_Detector-000000?logo=github&style=for-the-badge)](https://github.com/SyndicateGit/CheckYourSource)
+> Check electricity resource usage on any part of the planet.
 
 [![AirBridge – Embedding-Based Similarity Search](https://img.shields.io/badge/AirBridge-Embedding_Net-000000?logo=github&style=for-the-badge)](https://github.com/Isteyak12/AirBridge)
-> Semantic similarity engine using Siamese networks and vector embeddings for cross-modal retrieval.
+> Wirelessly relay files from your phone to your laptop — no internet required.
 ![Animated Character](https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif)
 
----
 # socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/isteyak/)
