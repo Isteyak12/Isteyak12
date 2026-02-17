@@ -52,6 +52,8 @@
 
 [![AirBridge – Embedding-Based Similarity Search](https://img.shields.io/badge/AirBridge-Embedding_Net-000000?logo=github&style=for-the-badge)](https://github.com/Isteyak12/AirBridge)
 > Wirelessly relay files from your phone to your laptop — no internet required.
+
+#
 ![Animated Character](https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif)
 
 # socials:
