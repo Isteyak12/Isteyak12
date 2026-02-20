@@ -10,7 +10,7 @@
 -->
 <img src="https://allhacked.com/up/2019/03/hello-world.gif" width="250" height="60" alt="Hello World GIF"><br>
 # about me:
-👋 **Hi there!** I'm **Isteyak**, a computer vision researcher at the University of Windsor, with a strong passion for technology and creative problem-solving.<br>
+👋 **Hi there!** I'm **Isteyak**, a geospatial computer vision researcher at the University of Windsor, with a strong passion for technology and creative problem-solving.<br>
 ![Animated Character](https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952hk36t76podqoceh464ouz1vbptyqlgu814ayfn7t&ep=v1_gifs_search&rid=200w.gif&ct=g)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
