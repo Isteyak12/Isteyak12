@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2b2b2b,100:ff4d6d&height=200&section=header&text=Isteyak&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Machine%20Vision%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20Robotics&descAlignY=58&descSize=18&animation=fadeIn" alt="Isteyak" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://allhacked.com/up/2019/03/hello-world.gif" width="360" alt="Hello World GIF" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1400&color=FF4D6D&center=true&vCenter=true&width=520&lines=%3E+hello+friends!;Machine+vision+inspection;Satellite+change+detection;Robotics+in+Isaac+Sim;Deep+learning+%2B+full-stack" alt="Typing intro" />
